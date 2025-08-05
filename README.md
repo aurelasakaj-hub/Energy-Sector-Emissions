@@ -1,2 +1,2 @@
-# Energy-Sector-Emissions
-Code and workflows for analyzing greenhouse gas and air pollutant emissions from the energy sector using CEDS and EDGAR datasets.
+# Cmip6 Climate Projections
+Code and analysis for processing CMIP6 climate model data (temperature and precipitation) under historical and SSP scenarios.
